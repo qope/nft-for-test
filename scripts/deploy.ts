@@ -6,10 +6,8 @@ async function main() {
   const Nft = await ethers.getContractFactory("GameItem");
   const nft = await Nft.deploy(baseURI);
   await nft.deployed();
-
   const me = await ethers.getSigners().then((signers) => signers[0]);
   nft.mint(me.address);
-
   console.log(`deployed at ${nft.address}`);
 }
 
