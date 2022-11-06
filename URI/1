@@ -1,6 +1,6 @@
 {
-"name": "Thor's hammer",
-"description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-"image": "https://github.com/qope/nft-for-test/images/a.png",
-"strength": 20
+  "name": "Pics",
+  "description": "Just pics",
+  "image": "https://raw.githubusercontent.com/qope/nft-for-test/main/images/a.png",
+  "strength": 20
 }
