@@ -1,0 +1,11 @@
+{
+  "name": "Wallet NFT",
+  "description": "WalletFi is a revolutionary product that enables the buying and selling of wallet ownership as an NFT.",
+  "image": "https://raw.githubusercontent.com/qope/nft-for-test/main/images/walletWithUnlock.png",
+  "attributes": [
+    {
+      "trait_type": "isLocked",
+      "value": "false"
+    }
+  ]
+}
